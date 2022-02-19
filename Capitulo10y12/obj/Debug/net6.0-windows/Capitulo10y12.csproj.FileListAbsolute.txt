@@ -1,5 +1,4 @@
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12.csproj.AssemblyReference.cache
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio1.g.cs
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12_MarkupCompile.cache
@@ -10,7 +9,6 @@ C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\bin\Debug\net6.0
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\bin\Debug\net6.0-windows\Capitulo10y12.dll
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\bin\Debug\net6.0-windows\ref\Capitulo10y12.dll
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\bin\Debug\net6.0-windows\Capitulo10y12.pdb
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio1.baml
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12.g.resources
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12.GeneratedMSBuildEditorConfig.editorconfig
@@ -21,7 +19,9 @@ C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\ref\Capitulo10y12.dll
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12.pdb
 C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12.genruntimeconfig.cache
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio2.g.cs
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio2.baml
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio3_4_5.g.cs
-C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10\Ejercicio3_4_5.baml
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio1.g.cs
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio2.g.cs
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio3_4_5.g.cs
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio1.baml
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio2.baml
+C:\Users\Daniel\Documents\PROGRAMACION APLICADA 1\Capitulo10y12\obj\Debug\net6.0-windows\Capitulo10y12\Ejercicio3_4_5.baml
