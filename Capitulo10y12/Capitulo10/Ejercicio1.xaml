@@ -1,0 +1,35 @@
+<Window x:Class="Capitulo10y12.Capitulo10.Ejercicio1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capitulo10y12.Capitulo10"
+        mc:Ignorable="d"
+       Title="Ejercicio 1" Height="365" Width="356" >
+    <Grid Margin="0,0,0,94">
+        <StackPanel Orientation="Vertical" Margin="10,10,10,0" Height="280" VerticalAlignment="Top">
+
+            <Label Content="Codigo producto"></Label>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="CodigoProducto" Height="18" Width="150" Text="{Binding Codigo}"></TextBox>
+            </StackPanel>
+            <Label Content="Descripcion"></Label>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="Descripcion" Height="18" Width="300" Text="{Binding Descripcion}"></TextBox>
+            </StackPanel>
+            <Label Content="Cantidad"></Label>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="cantidad" Height="18" Width="300" Text="{Binding Cantidad}"></TextBox>
+            </StackPanel>
+            <Label Content="Precio"></Label>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="precio" Height="18" Width="300" Text="{Binding Precio}"></TextBox>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="guardar" Content="  Guardar  " Margin="10,10,0,0" Height="30" Click="guardar_Click"></Button>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
